@@ -1,1 +1,1 @@
-console.log("data");
+const images = document.querySelectorAll(".grid > img");
