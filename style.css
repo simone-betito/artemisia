@@ -9,6 +9,10 @@ h1,
 h3 {
   font-family: "Playfair Display", serif;
 }
+a {
+  color: #af3832;
+}
+
 .container {
   width: 95vw;
   margin: 0 auto;
