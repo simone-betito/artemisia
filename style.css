@@ -17,6 +17,34 @@ a {
   width: 95vw;
   margin: 0 auto;
 }
+
+.chart {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 50 auto;
+  width: 80vw;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 0 10px;
+}
+
+.block {
+  width: 12px;
+  height: 5px;
+  background-color: #fe4a49;
+  margin: 1px;
+}
+
+.group.italian .block {
+  background-color: green;
+}
+
 .grid {
   display: grid;
   margin: 20px auto;
