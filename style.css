@@ -18,6 +18,48 @@ a {
   margin: 0 auto;
 }
 
+#background-section {
+  position: relative;
+}
+
+#background {
+  width: 30vw;
+  margin: 0 auto;
+}
+
+#background > div {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 500px;
+  opacity: 0.3;
+  font-size: 1.25rem;
+}
+
+.scroll-para p {
+  margin: 0;
+}
+#background > div:last-of-type {
+  margin-bottom: 50px;
+  background-color: transparent;
+}
+
+#background div.graph-scroll-active {
+  opacity: 1;
+}
+
+#background-section-chart {
+  /* margin-left: 40px; */
+  width: 100%;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 50px;
+  z-index: -1;
+}
+
+#background-section-chart svg {
+  margin-bottom: 40px;
+}
+
 .chart {
   display: flex;
   justify-content: space-between;
@@ -37,12 +79,12 @@ a {
 .block {
   width: 12px;
   height: 5px;
-  background-color: #fe4a49;
+  background-color: #d8880a;
   margin: 1px;
 }
 
 .group.italian .block {
-  background-color: green;
+  background-color: #af3832;
 }
 
 .grid {
