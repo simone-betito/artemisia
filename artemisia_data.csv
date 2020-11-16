@@ -1,35 +1,35 @@
-﻿Image Number,Picture,Path,Theme,Emotional response,Title ,Date,Material,Measurements,Repository,Signature Hidden In Painting
-1,,1.jpg,Biblical,,Judith Beheading Holofernes,1611-1612,oil on canvas,158.8 x 125.5 cm,Museo e gallerie nazionali di Capodimonte,
-2,,2.jpg,Biblical,,Judith and Holofernes,circa 1620,oil on canvas,199 x 162.5 cm,"Inv. 1567
+﻿imageNumber,picture,path,theme,emotionalResponse,title,date,material,measurements,repository,signatureHiddenInPainting
+1,,1.jpg,biblical,,Judith Beheading Holofernes,1611-1612,oil on canvas,158.8 x 125.5 cm,Museo e gallerie nazionali di Capodimonte,
+2,,2.jpg,biblical,,Judith and Holofernes,circa 1620,oil on canvas,199 x 162.5 cm,"Inv. 1567
 Uffizi, Florence",
-3,,3.jpg,Self-Portrait,,La Pittura (Self-portrait),1630,oil on canvas,97.8 cm x 74.9 cm,"Windsor Castle, Windsor, England, United Kingdom",
-4,,4.jpg,Biblical,,Susanna and the Elders,1610,oil on canvas,,,
-5,,5.jpg,Biblical,,Judith and Her Maidservant (Judith with the Head of Holofernes),1618,oil on canvas,93.5 cm x 114 cm,"Palazzo Pitti [Pitti Palace], Florence, Tuscany, Italy",
-6,,6.jpg,Biblical,,Judith and Maidservant with the Head of Holofernes,1625,oil on canvas,184.15 cm x 141.61 cm,"The Detroit Institute of Arts
+3,,3.jpg,self-portrait,,La Pittura (Self-portrait),1630,oil on canvas,97.8 cm x 74.9 cm,"Windsor Castle, Windsor, England, United Kingdom",
+4,,4.jpg,biblical,,Susanna and the Elders,1610,oil on canvas,,,
+5,,5.jpg,biblical,,Judith and Her Maidservant (Judith with the Head of Holofernes),1618,oil on canvas,93.5 cm x 114 cm,"Palazzo Pitti [Pitti Palace], Florence, Tuscany, Italy",
+6,,6.jpg,biblical,,Judith and Maidservant with the Head of Holofernes,1625,oil on canvas,184.15 cm x 141.61 cm,"The Detroit Institute of Arts
 Detroit, Michigan, USA
 Gift of Mr. Leslie H. Green
 52.253",
-7,,7.jpg,Greek Mythology,,Minerva,1640-1651,oil on canvas,131 x 105 cm,"Galleria delgi Uffizi, Florence, Italy, Inv. 1890 no. 8557",Yes
-8,,8.jpg,Greek Mythology,,Danaë,1612,oil on copper,41.3 x 52.7 cm,"Saint Louis Art Museum, Museum Purchase and gift of Edward Mallinckrodt, Sydney M. Shoenberg Sr., Horace Morison, Mrs. Florence E. Bing, Morton D. May in honor of Perry T. Rathbone, Mrs. James Lee Johnson Jr., Oscar Johnson, Fredonia J. Moss, Mrs. Arthur",
-9,,9.jpg,Biblical,,Annunciation,1630,oil on canvas,257 x 179 cm,Museo e gallerie nazionali di Capodimonte,
-10,,10.jpg,Commission,,Allegory of Inclination,1615-1616,canvas mounted on the ceiling,152 x 61 cm,"Casa Buonarroti (Florence, Italy)",
-11,,11.jpg,Biblical,,David and Bathsheba,1640-1645,oil on canvas,,,
-12,,12.jpg,Biblical,,Conversion of the Magdalen,1615-1616,oil on canvas,146.5 x 108 cm,Galleria Palatina,Yes
-13,,13.jpg,Commission,,Portrait of Gonfaloniere,1622,oil on canvas,208 x 128 cm,Bologna (Italy). Collezioni comunali d'arte,
-14,,14.jpg,Biblical,,Jael and Sisera,1620,oil on canvas,92.3 x 127.5 cm,Szépmuvészeti Múzeum (Hungary),
-15,,15.jpg,Self-Portrait,,Self-portrait as a Lute Player,1615-1617,oil on canvas,77.5 cm x 71.1 cm ,,
-16,,16.jpg,Biblical,,Madonna and Child,,oil on canvas,118 x 86 cm,"Galleria delgi Uffizi, Florence, Italy, Inv. 1890 no. 2129",
-17,,17.jpg,Biblical,,Esther before Ahasuerus,,oil on canvas,208.3 x 273.7 cm,,
-18,,18.jpg,Biblical,,St. Catherine of Alexandria,1620,Oil on canvas,97.8 x 74.9 cm,,
-19,,19.jpg,Biblical,,Saint Cecilia,,Oil on canvas,92 x 72 cm,,
-20,,20.jpg,self-Portrait,,Portrait of a Woman Artist,,,98x74cm ,Galleria nazionale d'arte antica (Italy),
+7,,7.jpg,greek-mythology,,Minerva,1640-1651,oil on canvas,131 x 105 cm,"Galleria delgi Uffizi, Florence, Italy, Inv. 1890 no. 8557",Yes
+8,,8.jpg,greek-mythology,,Danaë,1612,oil on copper,41.3 x 52.7 cm,"Saint Louis Art Museum, Museum Purchase and gift of Edward Mallinckrodt, Sydney M. Shoenberg Sr., Horace Morison, Mrs. Florence E. Bing, Morton D. May in honor of Perry T. Rathbone, Mrs. James Lee Johnson Jr., Oscar Johnson, Fredonia J. Moss, Mrs. Arthur",
+9,,9.jpg,biblical,,Annunciation,1630,oil on canvas,257 x 179 cm,Museo e gallerie nazionali di Capodimonte,
+10,,10.jpg,commission,,Allegory of Inclination,1615-1616,canvas mounted on the ceiling,152 x 61 cm,"Casa Buonarroti (Florence, Italy)",
+11,,11.jpg,biblical,,David and Bathsheba,1640-1645,oil on canvas,,,
+12,,12.jpg,biblical,,Conversion of the Magdalen,1615-1616,oil on canvas,146.5 x 108 cm,Galleria Palatina,Yes
+13,,13.jpg,commission,,Portrait of Gonfaloniere,1622,oil on canvas,208 x 128 cm,Bologna (Italy). Collezioni comunali d'arte,
+14,,14.jpg,biblical,,Jael and Sisera,1620,oil on canvas,92.3 x 127.5 cm,Szépmuvészeti Múzeum (Hungary),
+15,,15.jpg,self-portrait,,Self-portrait as a Lute Player,1615-1617,oil on canvas,77.5 cm x 71.1 cm ,,
+16,,16.jpg,biblical,,Madonna and Child,,oil on canvas,118 x 86 cm,"Galleria delgi Uffizi, Florence, Italy, Inv. 1890 no. 2129",
+17,,17.jpg,biblical,,Esther before Ahasuerus,,oil on canvas,208.3 x 273.7 cm,,
+18,,18.jpg,biblical,,St. Catherine of Alexandria,1620,Oil on canvas,97.8 x 74.9 cm,,
+19,,19.jpg,biblical,,Saint Cecilia,,Oil on canvas,92 x 72 cm,,
+20,,20.jpg,self-portrait,,Portrait of a Woman Artist,,,98x74cm ,Galleria nazionale d'arte antica (Italy),
 21,,21.jpg,biblical,,Judith and Holofernes,,,155 x 117 cm,Uppsala universitet,
 22,,22.jpg,biblical,,Mary Magdalen,,,97x79cm,Kunsthistorisches Museum Wien,
 23,,23.jpg,biblical,,Joseph and Potiphar's Wife,,Oil on canvas,"91.25x76.75""",Fogg Art Museum,
 24,,24.jpg,biblical,,Delilah Cutting Samson's Hair,,,,,
 25,,25.jpg,biblical,,Birth of St. John the Baptist,,,,Museo del Prado,
-26,,26.jpg,Commission,,,,,,,
-27,,27.jpg,greek Mythology,,Clio,1632,Oil on canvas,"50x38 3/8""",,Yes
+26,,26.jpg,commission,,,,,,,
+27,,27.jpg,greek-mythology,,Clio,1632,Oil on canvas,"50x38 3/8""",,Yes
 28,,28.jpg,biblical,,"
 Saint Catherine of Alexandria",c.1613-20,Oil on canvas,77 x 62 cm,Galleria degli Uffizi,
-29,,29.jpg,self-Portrait,,Lute Player,,Oil on canvas,108 x 78.5 cm,108 x 78.5 cm,
+29,,29.jpg,self-portrait,,Lute Player,,Oil on canvas,108 x 78.5 cm,108 x 78.5 cm,

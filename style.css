@@ -30,16 +30,19 @@ a {
   text-align: center;
 }
 
-#background-section {
+#background-section,
+#grid-section {
   position: relative;
 }
 
-#background {
+#background,
+#grid-text {
   width: 30vw;
   margin: 0 auto;
 }
 
-#background > div {
+#background > div,
+#grid-text > div {
   background-color: #fff;
   padding: 10px;
   margin-bottom: 500px;
@@ -50,25 +53,29 @@ a {
 .scroll-para p {
   margin: 0;
 }
-#background > div:last-of-type {
+#background > div:last-of-type,
+#grid-text > div:last-of-type {
   margin-bottom: 50px;
   background-color: transparent;
 }
 
-#background div.graph-scroll-active {
+#background div.graph-scroll-active,
+#grid-text div.graph-scroll-active {
   opacity: 1;
 }
 
-#background-section-chart {
+#background-section-chart,
+#grid-chart {
   /* margin-left: 40px; */
   width: 100%;
   position: sticky;
   position: -webkit-sticky;
   top: 50px;
-  z-index: -1;
+  /* z-index: -1; */
 }
 
-#background-section-chart svg {
+#background-section-chart svg,
+#grid-chart div {
   margin-bottom: 40px;
 }
 
@@ -106,24 +113,52 @@ a {
   gap: 5px;
 }
 
-.grid > img {
+.section {
+  display: grid;
   grid-row: 1;
-  width: 100%;
+  /* grid-auto-flow: dense; */
+  gap: 5px;
+}
+
+.section h3 {
+  display: none;
+}
+
+.grid img {
+  grid-row: 1;
+  width: 3vw;
   height: 50px;
   object-fit: cover;
   object-position: 0 0;
   transition: 0.3s ease-in-out all;
 }
 
-.grid:hover > img {
+.section:hover img {
   opacity: 0.25;
 }
 
-.grid > img:hover {
+.section img:hover {
   opacity: 1;
   width: unset;
   transform: scale(3.5);
   z-index: 2;
+}
+
+.grid-change {
+  grid-template-columns: repeat(auto-fit, minmax(2rem, 1fr));
+  margin: 0 30px;
+  grid-auto-rows: max-content;
+}
+
+.grid-change img {
+  height: auto;
+  width: 100%;
+  grid-row: auto;
+}
+
+.grid-change h3 {
+  grid-column: span 4;
+  display: block;
 }
 
 footer {
